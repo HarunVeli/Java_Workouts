@@ -1,0 +1,12 @@
+1000-Resim
+1010-Ebru
+1020-Çini
+1030-Tezhip
+1040-Hat
+1050-Seramik
+1060-Tel kırma
+1070-Müzik
+1080-Tiyatro
+1090-Dans
+1100-Grafik
+1598-Kayak

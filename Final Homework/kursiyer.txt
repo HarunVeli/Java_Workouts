@@ -1,0 +1,17 @@
+*5050-Ahmet Ada-23
+%1000-Resim
+%1040-Hat
+*6085-Selda Þahin-35
+%1020-Çini
+*5090-Deniz Arslan-30
+%1000-Resim
+%1060-Tel kýrma
+*6174-Tarýk Kýlýç-42
+%1010-Ebru
+%1030-Tezhip
+%1050-Seramik
+*7075-Ayþe Kaya-20
+%1070-Müzik
+%1080-Tiyatro
+%1100-Grafik
+
